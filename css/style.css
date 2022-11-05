@@ -1,0 +1,47 @@
+html, body{
+    background-color: black;
+    align-items: center;
+    color: white;
+    display: block;
+    text-align: center;
+    margin: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+
+}
+a:link{
+    text-decoration: none;
+    color: Aquamarine;
+    font-size: 16px;
+}
+
+.mockup h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+}
+.photo h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.phone {
+    background-color: black;
+    text-align: center;
+}
+.footer img {
+     margin: 20px;
+}
+
+copyright p{
+    text-align: right;
+    color: gray;
+}
+
